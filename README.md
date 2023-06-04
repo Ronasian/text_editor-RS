@@ -1,7 +1,7 @@
 # Challenge #19: Text Editor
 
 ## Description
-This application is an editor that runs in the browser and also functions offline.
+This application is a text editor that runs in the browser and also functions offline. This will ensure that in the case where a browser does not support this application, that it can still be accessed and ran. It will be deployed on Heroku.
 
 ## User Story
 ```md
